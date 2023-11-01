@@ -46,7 +46,7 @@ postList: none
   赞助商 (进入注册为主题作者充电)
 </p>
 <p align="center">
-  <a href="http://apifox.cn/a103xugaoyi" target="_blank"><img src="https://cdn.staticaly.com/gh/xugaoyi/blog-gitalk-comment@master/img/441669861566_.2bedplbm21hc.jpg" alt="npm" class="no-zoom" style="width: 300px;border-radius: 2px;"></a>
+  <a href="http://apifox.cn/a103xugaoyi" target="_blank"><img src="https://jsd.cdn.zzko.cn/gh/xugaoyi/blog-gitalk-comment@master/img/441669861566_.2bedplbm21hc.jpg" alt="npm" class="no-zoom" style="width: 300px;border-radius: 2px;"></a>
 </p>
 
 ## 🎖特别用户
@@ -116,7 +116,7 @@ postList: none
 还有更多好玩的等你去探索吧~
 
 ::: center
-<img src="https://fastly.jsdelivr.net/gh/xugaoyi/image_store@master/blog/qrcode.zdqv9mlfc0g.jpg"  style="width:190px;" />
+<img src="https://jsd.cdn.zzko.cn/gh/xugaoyi/image_store@master/blog/qrcode.zdqv9mlfc0g.jpg"  style="width:190px;" />
 :::
 
 <br/> -->
@@ -132,7 +132,7 @@ postList: none
   <tbody>
     <tr>
       <td align="center" valign="middle">
-        <img src="https://cdn.staticaly.com/gh/xugaoyi/blog-gitalk-comment@master/img/0.4pp7r95mdai0.jpeg" class="no-zoom" style="width:120px;margin: 10px;">
+        <img src="https://jsd.cdn.zzko.cn/gh/xugaoyi/blog-gitalk-comment@master/img/0.4pp7r95mdai0.jpeg" class="no-zoom" style="width:120px;margin: 10px;">
         <p>vdoing微信群(添加我微信备注"进群")</p>
       </td>
       <td align="center" valign="middle">
